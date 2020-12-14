@@ -173,3 +173,7 @@ template {
 [hidden] {
   display: none;
 }
+
+input {
+  -webkit-appearance: none;
+}
